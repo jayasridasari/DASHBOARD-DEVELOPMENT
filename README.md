@@ -68,3 +68,8 @@ Peak periods of infection across multiple waves
 The effect of interventions like lockdowns visible in time-series trends
 
 *OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/1225d5c6-de04-4b29-8102-c3e7cd8e4a81)
+![Image](https://github.com/user-attachments/assets/71e49ffa-859a-466c-b755-280723bb8b4f)
+![Image](https://github.com/user-attachments/assets/9c2f617e-6291-4a66-9e1c-ef6510dd513b)
+![Image](https://github.com/user-attachments/assets/edd6490e-7009-4191-809e-c771b506966c)
